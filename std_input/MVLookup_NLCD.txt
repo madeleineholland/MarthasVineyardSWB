@@ -1,0 +1,15 @@
+LU_CODE	Description	CN_1	CN_2	CN_3	CN_4	max_net_infil_1	max_net_infil_2	max_net_infil_3	max_net_infil_4	RZ_1	RZ_2	RZ_3	RZ_4	Interception_Growing	Interception_Nongrowing	growing_season_start	growing_season_end
+21	" Developed, Open Space "	61	75	83	87	3	2	1	0.6	1	1	1	1	0.04	0	133	268
+22	" Developed, Low Intensity "	61	75	83	87	2.5	1.5	0.8	0.5	1	1	1	1	0.04	0	133	268
+23	" Developed, Medium Intensity "	77	85	90	92	2.5	1.5	0.6	0.4	1	1	1	1	0.04	0	133	268
+24	" Developed, High Intensity "	90	92	94	96	0.5	0.5	0.1	0.1	0.5	0.5	0.5	0.5	0.02	0	133	268
+31	 Barren Land (Rock/Sand/Clay) 	71.1	82	88.1	90.5	3	3	2.75	2	0.5	0.5	0.5	0.5	0.06	0	133	268
+41	 Deciduous Forest  	32	50	60	68.5	6	3.5	2.75	2	4.165	2.665	1.95	3.33	0.02	0	133	268
+42	 Evergreen Forest 	39.1	55	63.9	71.4	6	3.5	2.75	2	4.165	2.665	1.95	3.33	0.02	0.02	133	268
+43	 Mixed Forest 	46.2	60	67.8	74.2	6	3.5	2.75	2	4.165	2.665	1.95	3.33	0.04	0.02	133	268
+52	 Shrub/Scrub 	35	56	70	77	6	3.5	2.75	2	1.665	1.945	1.48	1.875	0.04	0.02	133	268
+71	 Grassland/Herbaceous 	30	58	71	78	6	3.5	2.75	2	1.665	1.665	1.11	2.085	0.04	0.02	133	268
+81	 Pasture/Hay  	49	69	79	84	6	3.5	2.75	2	1.665	1.665	1.11	2.085	0.04	0	133	268
+82	 Cultivated Crops 	65.5	76.5	83.5	87	6	3.5	2.75	2	2.08	1.11	0.66	2.29	0.04	0	133	268
+90	 Woody Wetlands 	83	83	83	83	2	1	0.67	0.33	4.5	4.5	4.5	4.5	0.02	0	133	268
+95	 Emergent Herbaceous Wetlands 	83	83	83	83	2	1	0.67	0.33	1.5	1.5	1.5	1.5	0.02	0	133	268

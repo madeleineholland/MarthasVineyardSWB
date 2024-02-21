@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: Figures
+Version: 0.1
+Summary: Classes for making report-quality figures using Matplotlib
+Author: Andy Leaf

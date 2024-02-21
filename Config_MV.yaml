@@ -1,0 +1,8 @@
+ControlFile: "Daymet.ctl"
+InputTable: "MVLookup_NLCD.txt"
+nx: 1182
+ny: 768
+modelDir: "SWB"
+startdate: "1999-01-01"
+enddate: "2022-12-31"
+variables: ['net_infiltration', 'actual_et', 'gross_precipitation', 'rejected_net_infiltration', 'interception', 'runon', 'runoff_outside']
